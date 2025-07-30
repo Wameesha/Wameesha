@@ -61,6 +61,5 @@ Here are a few highlights from my work and collaborations:
 - 📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wameesha-jayasinghe/)
 - 🌐 Check out my [GitHub](https://github.com/Wameesha) to see more
 
-g.
 
 
