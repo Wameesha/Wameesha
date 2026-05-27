@@ -14,7 +14,6 @@
 
 ### ⚡ Quick Bytes
 - 🎓 **Undergraduate** at University of Colombo School of Computing (UCSC).
-- 💼 **Intern Software Engineer** at Effective Solutions (Pvt) Ltd.
 - 🛠️ **Current Focus**: Building production-grade data pipelines with Snowflake, dbt, and Airflow.
 - 🌱 **Learning**: Advanced real-time analytics and scalable cloud architectures.
 
